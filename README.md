@@ -10,6 +10,5 @@
 
 ### Results
 
-![output1]()
-</br></br>
-![output2]()
+![output1](https://github.com/chakri01/Basic_Android_Games/blob/main/outputs/output1.jpeg)
+
